@@ -199,7 +199,7 @@ Multi-Agent Systems · Distributed Systems · Performance Engineering
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shaktixdev&theme=tokyonight&hide_border=true&background=0D1117&ring=0175F2&fire=0175F2&currStreakLabel=0175F2&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=shaktixdev&theme=tokyonight&hide_border=true&background=0D1117&ring=0175F2&fire=0175F2&currStreakLabel=0175F2&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -231,8 +231,32 @@ Multi-Agent Systems · Distributed Systems · Performance Engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175F2,100:0a1628&height=100&section=footer&text=Thanks%20for%20Visiting&fontSize=28&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0175F2&height=56&section=footer&text=Let%27s%20Build%20Something%20Exceptional&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 
-**Building AI Products · Business Software · SaaS · Premium Digital Experiences**
+<br>
+
+<sub><i>Crafted at the intersection of design, engineering, and business.</i></sub>
+
+<br><br>
+
+**AI Products** &nbsp;&nbsp;·&nbsp;&nbsp; **Business Software** &nbsp;&nbsp;·&nbsp;&nbsp; **SaaS** &nbsp;&nbsp;·&nbsp;&nbsp; **Premium Digital Experiences**
+
+<br><br>
+
+<a href="https://ogxstudio.com"><img src="https://img.shields.io/badge/Work_with_OGX_Studio-ogxstudio.com-0175F2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:hello@ogxstudio.com"><img src="https://img.shields.io/badge/Start_a_Project-hello@ogxstudio.com-0D1117?style=flat-square&logo=gmail&logoColor=0175F2" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0175F2,100:0a1628&height=3&section=footer&fontSize=1" width="480" />
+
+<br>
+
+<sub><b>Shakti Mandal</b> · Founder & Director, OGX Studio</sub>
+
+<br>
+
+<sub>© 2026 OGX Studio · Built with intention</sub>
 
 </div>
