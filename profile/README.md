@@ -386,11 +386,6 @@ AI infrastructure
 
 <div align="center">
 
-```text
-                    ┌─────────────────────┐
-                    │   READY TO BUILD?   │
-                    └─────────────────────┘
-```
 
 ### Let's make something worth shipping
 
