@@ -7,18 +7,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shaktixdev/.github/main/profile/bannerimg.webp" width="100%" alt="OGX Studio — AI Products, Modern Web & Business Software" />
+<img src="https://raw.githubusercontent.com/shaktixdev/.github/main/profile/banner.jpeg" width="100%" alt="OGX Studio — AI Products, Modern Web & Business Software" />
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────────────┐
-│  STATUS     ● ONLINE                             │
-│  ROLE       Founder & Director                   │
-│  STUDIO     OGX Studio                           │
-│  MODE       Building · Shipping · Scaling        │
-└──────────────────────────────────────────────────┘
-```
+<h1>👋 Hey, I'm Shakti</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=AI+that+works+in+production;SaaS+that+feels+premium;Software+that+ships+fast" alt="Typing" />
 
