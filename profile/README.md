@@ -406,5 +406,4 @@ AI infrastructure
 <sub><b>Shakti Mandal</b> · Founder & Director, <a href="https://ogxstudio.in">OGX Studio</a></sub>  
 <sub><i>Crafted at the intersection of design, engineering, and business.</i></sub>  
 <sub>© 2026 OGX Studio · Built with intention</sub>
-
 </div>
