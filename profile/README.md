@@ -1,198 +1,417 @@
+<!--
+  ┌─────────────────────────────────────────────────────────┐
+  │  SHAKTI MANDAL  ·  Founder & Director, OGX Studio       │
+  │  github.com/shaktixdev                                  │
+  └─────────────────────────────────────────────────────────┘
+-->
+
 <div align="center">
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/shaktixdev/.github/main/profile/bannerimg.webp" width="100%" alt="OGX Studio" />
-
-<br><br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=36&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Shakti+Mandal" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=36&duration=4000&pause=2000&color=1A1A1A&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Shakti+Mandal" alt="Shakti Mandal" />
-</picture>
-
-<sub>Founder and Director · <a href="https://ogxstudio.in">OGX Studio</a></sub>
+<img src="https://raw.githubusercontent.com/shaktixdev/.github/main/profile/bannerimg.webp" width="100%" alt="OGX Studio — AI Products, Modern Web & Business Software" />
 
 <br><br>
 
-<a href="https://github.com/shaktixdev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shaktimndal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://ogxstudio.in"><img src="https://img.shields.io/badge/Website-0175F2?style=flat&logo=safari&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:shakti@ogxstudio.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+```text
+┌──────────────────────────────────────────────────┐
+│  STATUS     ● ONLINE                             │
+│  ROLE       Founder & Director                   │
+│  STUDIO     OGX Studio                           │
+│  MODE       Building · Shipping · Scaling        │
+└──────────────────────────────────────────────────┘
+```
 
-<br><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=AI+that+works+in+production;SaaS+that+feels+premium;Software+that+ships+fast" alt="Typing" />
+
+<br>
+
+<a href="https://github.com/shaktixdev"><img src="https://img.shields.io/badge/GitHub-shaktixdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shaktimndal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ogxstudio.in"><img src="https://img.shields.io/badge/OGX_Studio-0175F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:shakti@ogxstudio.in"><img src="https://img.shields.io/badge/Email-shakti@ogxstudio.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+---
+
+## ▸ whoami
+
+I design and ship **premium digital products** — AI systems, SaaS platforms, and enterprise software — from first sketch to production.
+
+At **[OGX Studio](https://ogxstudio.in)**, I work with startups and businesses that want software that looks expensive, runs fast, and scales cleanly.
+
+> Not templates. Not demos. Products that earn their place in the real world.
+
+<details>
+<summary><b>◎ open shakti.config.ts</b></summary>
+
+<br>
+
+```ts
+export const shakti = {
+  role: "Founder & Director",
+  studio: "OGX Studio",
+  based: "India · Worldwide",
+
+  focus: [
+    "AI Products & Multi-Agent Systems",
+    "Premium SaaS & Enterprise Platforms",
+    "Full-Stack Engineering + Product Design",
+  ],
+
+  now: {
+    building: "Netsuk AI — automation that thinks",
+    shipping: "Client products across commerce & proptech",
+    reading: "Designing Data-Intensive Applications",
+  },
+
+  creed: "Performance · Design · Reliability · Scale",
+} as const;
+```
+
+</details>
+
+<br>
+
+<div align="center">
+
+| 🏗️ Flagship | 🌍 Clients | 🧠 AI | 🎨 Design | ⚡ Delivery |
+|:---:|:---:|:---:|:---:|:---:|
+| **4+** products | **15+** businesses | First-class | Pixel-led | End-to-end |
 
 </div>
 
 ---
 
-Software engineer, product designer, and entrepreneur building premium digital products at the intersection of AI, SaaS, and enterprise software.
+## ▸ the studio map
 
-Through **OGX Studio**, I partner with startups and businesses to ship software that is fast, beautifully designed, and engineered to scale.
+How everything connects — from OGX Studio to the products and industries I ship into.
 
-> *Performance. Design. Reliability. Scale.*
+```mermaid
+flowchart LR
+  S[OGX Studio] --> N[Netsuk AI]
+  S --> R[Rent 1st]
+  S --> H[Healthcare Platform]
+  S --> C[Client Work]
 
-<br>
+  C --> E[E-Commerce]
+  C --> P[PropTech]
+  C --> T[Tools & Platforms]
+
+  style S fill:#0175F2,stroke:#0175F2,color:#fff
+  style N fill:#8B5CF6,stroke:#8B5CF6,color:#fff
+  style R fill:#10B981,stroke:#10B981,color:#fff
+  style H fill:#EF4444,stroke:#EF4444,color:#fff
+```
 
 ---
 
-<br>
-
-### What I'm Building
+## ▸ flagship products
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**OGX Studio** — The technology studio behind every product I build. Premium software, AI solutions, SaaS platforms, and developer tools.
+### 🏢 OGX Studio
+[`ogxstudio.in`](https://ogxstudio.in)
+
+The company behind the craft — premium software, AI, SaaS, and developer tools.
+
+```
+◉ Product engineering
+◉ AI solutions
+◉ SaaS architecture
+◉ Design systems
+```
+
+`LIVE` · [Visit →](https://ogxstudio.in)
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Netsuk AI** — AI-first ecosystem for intelligent automation, AI agents, enterprise workflows, and productivity at scale.
+### 🤖 Netsuk AI
+
+AI-first ecosystem for agents, automation, and enterprise workflows.
+
+```
+◉ Multi-agent orchestration
+◉ Workflow automation
+◉ LLM intelligence
+◉ Scalable AI infra
+```
+
+`LIVE` · `AI-FIRST`
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Rent 1st** — Modern property rental platform. Management, discovery, and tenant experiences, reimagined.
+### 🏠 Rent 1st
+
+Modern rental platform for property ops, discovery, and tenant experience.
+
+```
+◉ Property management
+◉ Tenant discovery
+◉ Lease workflows
+◉ Live analytics
+```
+
+`IN DEVELOPMENT`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Healthcare Platform** — Enterprise healthcare ecosystem. Appointments, patient portals, dashboards, RBAC, and analytics.
+### 🏥 Healthcare Platform
+
+Enterprise health stack — appointments, portals, RBAC, automation, analytics.
+
+```
+◉ Patient portal
+◉ Admin + RBAC
+◉ Clinical workflows
+◉ Health analytics
+```
+
+`IN DEVELOPMENT`
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## ▸ selected work
+
+Products and brands shipped across industries — proof over pitch.
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+**🛍️ Commerce**
 
 ---
 
-<br>
+Healing Thyme  
+Mamatui  
+Mango Basket  
+ThodaSaCrazy  
+Rasoiya
 
-### Selected Work
+</td>
+<td align="center" width="33%" valign="top">
 
-E-Commerce — Healing Thyme · Mamatui · Mango Basket · ThodaSaCrazy · Rasoiya
-
-Real Estate — Global Acres · Kiaan Properties · Livome · Maha Magic Vastu
-
-Platforms — PitchDeckHub · Dobbico · DG Orbit · Desh Ghumo
-
-<br>
-
----
-
-<br>
-
-### Expertise
-
-**AI** — Agents · LLM Applications · Automation · MCP · Multi-Agent Systems
-
-**Software** — Enterprise Apps · Dashboards · CRM · ERP · API Design · Payments
-
-**Web** — Next.js · React · PWAs · Shopify · Headless Commerce · Performance
-
-**Design** — UI/UX · Design Systems · Brand Experience · Figma
-
-**Infrastructure** — Vercel · Docker · Cloudflare · CI/CD · Edge Computing
-
-<br>
+**🏡 PropTech & Lifestyle**
 
 ---
 
+Global Acres  
+Kiaan Properties  
+Livome  
+Maha Magic Vastu
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**🛠️ Platforms**
+
+---
+
+PitchDeckHub  
+Dobbico  
+DG Orbit  
+Desh Ghumo
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>◎ what “shipped” means here</b></summary>
+
 <br>
 
-### Technology
+Not slideware. These are live or production-ready products — storefronts, platforms, and tools used by real businesses. Design, engineering, and delivery owned end-to-end through OGX Studio.
+
+</details>
+
+---
+
+## ▸ how I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 Intelligence**
+
+AI agents · LLM apps  
+Automation · MCP  
+RAG · Multi-agent
+
+</td>
+<td width="33%" valign="top">
+
+**💼 Systems**
+
+SaaS · CRM · ERP  
+Dashboards · APIs  
+Payments · Workflows
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 Surfaces**
+
+Next.js · PWAs  
+Shopify · Headless  
+Commerce · Speed
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🎨 Craft**
+
+UI/UX · Systems  
+Brand · Figma  
+Motion · Detail
+
+</td>
+<td width="33%" valign="top">
+
+**☁️ Ops**
+
+Vercel · Docker  
+Cloudflare · CI/CD  
+Infra that stays quiet
+
+</td>
+<td width="33%" valign="top">
+
+**🔭 Next**
+
+Distributed systems  
+Edge · WASM  
+AI infrastructure
+
+</td>
+</tr>
+</table>
+
+---
+
+## ▸ stack
 
 <div align="center">
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,express&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,express&theme=light" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nextjs,react,express,vite,mongodb,postgres,redis,prisma,tailwind,figma,docker,vercel,cloudflare,git,github,supabase&perline=10&theme=dark" alt="Tech stack" />
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,tailwind,figma&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,tailwind,figma&theme=light" />
-</picture>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D4A84B?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-0175F2?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+
+</div>
+
+---
+
+## ▸ signal
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaktixdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=0175F2&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaktixdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,vercel,cloudflare,git,github,vite&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,git,github,vite&theme=light" />
-</picture>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=shaktixdev&theme=tokyonight&hide_border=true&background=00000000&ring=0175F2&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
 
 <br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaktixdev&theme=tokyo-night&hide_border=true&bg_color=00000000&color=58A6FF&line=0175F2&point=FF6B35&area=true&area_color=0175F240" alt="Contribution graph" />
+
+</div>
+
+---
+
+## ▸ operating principles
+
+<div align="center">
+
+> **Simple for users. Powerful for businesses. Exceptional for developers.**
 
 </div>
 
 <br>
 
----
+<table>
+<tr>
+<td align="center" width="20%">
 
-<br>
+**⚡ Speed**  
+<sub>Latency is UX</sub>
 
-### GitHub
+</td>
+<td align="center" width="20%">
 
-<div align="center">
+**🎨 Taste**  
+<sub>Details compound</sub>
 
-<br>
+</td>
+<td align="center" width="20%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=shaktixdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaktixdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0175F2&icon_color=0175F2&text_color=24292f&rank_icon=github" />
-</picture>
-&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaktixdev&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaktixdev&layout=compact&hide_border=true&bg_color=00000000&title_color=0175F2&text_color=24292f&langs_count=6" />
-</picture>
+**🔒 Trust**  
+<sub>Quiet reliability</sub>
 
-<br><br>
+</td>
+<td align="center" width="20%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=shaktixdev&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8b949e&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shaktixdev&hide_border=true&background=00000000&ring=0175F2&fire=FF6B35&currStreakLabel=0175F2&sideLabels=57606a&dates=888888&currStreakNum=24292f&sideNums=24292f" alt="Streak" />
-</picture>
+**📈 Scale**  
+<sub>Grow without rewrite</sub>
 
-<br><br>
+</td>
+<td align="center" width="20%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shaktixdev&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF20" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktixdev&hide_border=true&bg_color=00000000&color=0175F2&line=0175F2&point=24292f&area=true&area_color=0175F220" width="90%" />
-</picture>
+**✨ Feel**  
+<sub>Delight on purpose</sub>
 
-<br><br>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<br>
-
 <div align="center">
 
-> *Build software that's simple for users, powerful for businesses, and exceptional for developers.*
+```text
+                    ┌─────────────────────┐
+                    │   READY TO BUILD?   │
+                    └─────────────────────┘
+```
+
+### Let's make something worth shipping
+
+**AI Products** · **Enterprise Software** · **SaaS** · **Premium Digital Experiences**
 
 <br>
 
-<a href="https://ogxstudio.in"><img src="https://img.shields.io/badge/Work_with_OGX_Studio-0175F2?style=flat&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:shakti@ogxstudio.in"><img src="https://img.shields.io/badge/Start_a_Project-555555?style=flat&logoColor=white" /></a>
+<a href="https://ogxstudio.in"><img src="https://img.shields.io/badge/Work_with_OGX_Studio-0175F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:shakti@ogxstudio.in"><img src="https://img.shields.io/badge/Start_a_Project-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
-<sub>Shakti Mandal · Founder and Director, <a href="https://ogxstudio.in">OGX Studio</a></sub>
-<br>
-<sub>© 2026 OGX Studio</sub>
-
-<br><br>
+<sub><b>Shakti Mandal</b> · Founder & Director, <a href="https://ogxstudio.in">OGX Studio</a></sub>  
+<sub><i>Crafted at the intersection of design, engineering, and business.</i></sub>  
+<sub>© 2026 OGX Studio · Built with intention</sub>
 
 </div>
