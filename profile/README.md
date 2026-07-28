@@ -17,10 +17,6 @@
 <a href="https://ogxstudio.com"><img src="https://img.shields.io/badge/OGX_Studio-0175F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:hello@ogxstudio.com"><img src="https://img.shields.io/badge/Email-hello@ogxstudio.com-0175F2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=shaktixdev&label=Profile+Views&color=0175F2&style=flat-square)
-
 </div>
 
 <br>
@@ -198,23 +194,16 @@ Multi-Agent Systems · Distributed Systems · Performance Engineering
 <br>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shaktixdev&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=0175F2&icon_color=0175F2&text_color=c9d1d9&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktixdev&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0175F2&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaktixdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0175F2&icon_color=0175F2&text_color=c9d1d9&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaktixdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0175F2&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shaktixdev&theme=react&hide_border=true&background=0D1117&ring=0175F2&fire=0175F2&currStreakLabel=0175F2&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com?user=shaktixdev&theme=tokyonight&hide_border=true&background=0D1117&ring=0175F2&fire=0175F2&currStreakLabel=0175F2&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktixdev&theme=react&hide_border=true&bg_color=0d1117&color=0175F2&line=0175F2&point=c9d1d9&area=true" />
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaktixdev/.github/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shaktixdev/.github/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktixdev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0175F2&line=0175F2&point=c9d1d9&area=true" />
 </p>
 
 <br>
@@ -245,9 +234,5 @@ Multi-Agent Systems · Distributed Systems · Performance Engineering
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175F2,100:0a1628&height=100&section=footer&text=Thanks%20for%20Visiting&fontSize=28&fontColor=ffffff&animation=twinkling" />
 
 **Building AI Products · Business Software · SaaS · Premium Digital Experiences**
-
-<br>
-
-<a href="https://github.com/shaktixdev?tab=followers"><img src="https://img.shields.io/github/followers/shaktixdev?style=social" /></a>
 
 </div>
