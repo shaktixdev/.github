@@ -15,7 +15,7 @@
 <a href="https://github.com/shaktixdev"><img src="https://img.shields.io/badge/GitHub-shaktixdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shaktimndal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://ogxstudio.com"><img src="https://img.shields.io/badge/OGX_Studio-0175F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:hello@ogxstudio.com"><img src="https://img.shields.io/badge/Email-hello@ogxstudio.com-0175F2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shakti@ogxstudio.com"><img src="https://img.shields.io/badge/Email-shakti@ogxstudio.com-0175F2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -245,7 +245,7 @@ Multi-Agent Systems · Distributed Systems · Performance Engineering
 
 <a href="https://ogxstudio.com"><img src="https://img.shields.io/badge/Work_with_OGX_Studio-ogxstudio.com-0175F2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:hello@ogxstudio.com"><img src="https://img.shields.io/badge/Start_a_Project-hello@ogxstudio.com-0D1117?style=flat-square&logo=gmail&logoColor=0175F2" /></a>
+<a href="mailto:shakti@ogxstudio.com"><img src="https://img.shields.io/badge/Start_a_Project-shakti@ogxstudio.com-0D1117?style=flat-square&logo=gmail&logoColor=0175F2" /></a>
 
 <br><br>
 
