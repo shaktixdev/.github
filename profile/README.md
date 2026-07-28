@@ -1,11 +1,5 @@
 <div align="center">
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/shaktixdev/.github/main/profile/bannerimg.webp" width="100%" alt="OGX Studio" />
-
-<br><br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=36&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Shakti+Mandal" alt="Shakti Mandal" />
 
 <sub>Founder and Director · <a href="https://ogxstudio.in">OGX Studio</a></sub>
