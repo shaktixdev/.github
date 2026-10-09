@@ -1,3 +1,4 @@
+```markdown
 <!--
   ┌─────────────────────────────────────────────────────────┐
   │  SHAKTI MANDAL  ·  Founder & Director, OGX Studio       │
@@ -30,11 +31,11 @@
 
 ## ▸ whoami
 
-I design and ship **premium digital products** — AI systems, SaaS platforms, and enterprise software — from first sketch to production.
+I design and ship **premium digital products** — AI systems, SaaS platforms, music technology, and enterprise software — from first sketch to production.
 
-At **[OGX Studio](https://ogxstudio.in)**, I work with startups and businesses that want software that looks expensive, runs fast, and scales cleanly.
+As Founder & Director at **[OGX Studio](https://ogxstudio.in)**, I work across product engineering, AI automation, modern web applications, and business software.
 
-> Not templates. Not demos. Products that earn their place in the real world.
+> Not templates. Not demos. Products engineered to solve real problems.
 
 <details>
 <summary><b>◎ open shakti.config.ts</b></summary>
@@ -51,12 +52,13 @@ export const shakti = {
     "AI Products & Multi-Agent Systems",
     "Premium SaaS & Enterprise Platforms",
     "Full-Stack Engineering + Product Design",
+    "Music Technology & Audio Engineering",
   ],
 
   now: {
-    building: "Netsuk AI — automation that thinks",
-    shipping: "Client products across commerce & proptech",
-    reading: "Designing Data-Intensive Applications",
+    building: "Netsuk AI — intelligent automation",
+    shipping: "LastWave — music streaming & playback",
+    developing: "Xien OS, Msgium, Zodyc & OGX Space",
   },
 
   creed: "Performance · Design · Reliability · Scale",
@@ -71,7 +73,7 @@ export const shakti = {
 
 | 🏗️ Flagship | 🌍 Clients | 🧠 AI | 🎨 Design | ⚡ Delivery |
 |:---:|:---:|:---:|:---:|:---:|
-| **4+** products | **15+** businesses | First-class | Pixel-led | End-to-end |
+| **8+** products & initiatives | **15+** businesses | First-class | Pixel-led | End-to-end |
 
 </div>
 
@@ -79,13 +81,20 @@ export const shakti = {
 
 ## ▸ the studio map
 
-How everything connects — from OGX Studio to the products and industries I ship into.
+How everything connects — from OGX Studio to its product ecosystem, independent projects, and client solutions.
 
 ```mermaid
 flowchart LR
   S[OGX Studio] --> N[Netsuk AI]
-  S --> R[Rent 1st]
+  S --> X[Xien OS]
+  S --> M[Msgium]
+  S --> Z[Zodyc]
+  S --> A[Arya AI]
+  S --> O[OGX Space]
+
+  S --> R[Rent1st]
   S --> H[Healthcare Platform]
+  S --> L[LastWave]
   S --> C[Client Work]
 
   C --> E[E-Commerce]
@@ -94,8 +103,14 @@ flowchart LR
 
   style S fill:#0175F2,stroke:#0175F2,color:#fff
   style N fill:#8B5CF6,stroke:#8B5CF6,color:#fff
-  style R fill:#10B981,stroke:#10B981,color:#fff
+  style X fill:#6366F1,stroke:#6366F1,color:#fff
+  style M fill:#10B981,stroke:#10B981,color:#fff
+  style Z fill:#F59E0B,stroke:#F59E0B,color:#fff
+  style A fill:#EC4899,stroke:#EC4899,color:#fff
+  style O fill:#0EA5E9,stroke:#0EA5E9,color:#fff
+  style R fill:#14B8A6,stroke:#14B8A6,color:#fff
   style H fill:#EF4444,stroke:#EF4444,color:#fff
+  style L fill:#8B5CF6,stroke:#8B5CF6,color:#fff
 ```
 
 ---
@@ -109,47 +124,149 @@ flowchart LR
 ### 🏢 OGX Studio
 [`ogxstudio.in`](https://ogxstudio.in)
 
-The company behind the craft — premium software, AI, SaaS, and developer tools.
+The engineering studio building premium software, AI solutions, SaaS platforms, and digital products.
 
 ```
 ◉ Product engineering
-◉ AI solutions
+◉ AI solutions & automation
 ◉ SaaS architecture
 ◉ Design systems
 ```
 
-`LIVE` · [Visit →](https://ogxstudio.in)
+`ACTIVE` · [Visit →](https://ogxstudio.in)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Netsuk AI
 
-AI-first ecosystem for agents, automation, and enterprise workflows.
+An AI-first initiative focused on intelligent agents, automation, and business workflows.
 
 ```
-◉ Multi-agent orchestration
+◉ AI agent orchestration
 ◉ Workflow automation
-◉ LLM intelligence
-◉ Scalable AI infra
+◉ LLM-powered intelligence
+◉ AI infrastructure
 ```
 
-`LIVE` · `AI-FIRST`
+`BUILDING` · `AI-FIRST`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Rent 1st
+### 🎵 LastWave
 
-Modern rental platform for property ops, discovery, and tenant experience.
+A music streaming project focused on dependable playback, music discovery, audio quality, and a better listening experience.
+
+```
+◉ Music discovery
+◉ Audio playback
+◉ Lossless source handling
+◉ Playback diagnostics
+```
+
+`IN DEVELOPMENT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Rent1st
+
+A property management platform designed to simplify rental operations for owners, managers, and tenants.
 
 ```
 ◉ Property management
 ◉ Tenant discovery
-◉ Lease workflows
-◉ Live analytics
+◉ Verification workflows
+◉ Rental operations
+```
+
+`IN DEVELOPMENT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Xien OS
+
+An AI-powered operating system experience designed to bring intelligent assistance into everyday workflows.
+
+```
+◉ AI-powered experiences
+◉ Intelligent assistance
+◉ Workflow integration
+◉ Connected applications
+```
+
+`IN DEVELOPMENT`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Msgium
+
+A business messaging and automation platform built around WhatsApp APIs and AI-assisted communication.
+
+```
+◉ WhatsApp API integration
+◉ AI assistants
+◉ Automated workflows
+◉ Business messaging
+```
+
+`IN DEVELOPMENT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Zodyc
+
+An open-source website and commerce builder focused on making digital product creation more accessible.
+
+```
+◉ Website creation
+◉ Commerce experiences
+◉ Flexible customization
+◉ Developer-friendly tools
+```
+
+`IN DEVELOPMENT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Arya AI
+
+An intelligent assistant layer envisioned to connect AI capabilities with everyday product and business workflows.
+
+```
+◉ AI assistance
+◉ Context-aware workflows
+◉ Product integrations
+◉ Intelligent automation
+```
+
+`IN DEVELOPMENT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 OGX Space
+
+A business operations platform bringing essential business workflows into one connected workspace.
+
+```
+◉ CRM & lead management
+◉ Appointments
+◉ HRMS & operations
+◉ Workflow automation
 ```
 
 `IN DEVELOPMENT`
@@ -159,13 +276,13 @@ Modern rental platform for property ops, discovery, and tenant experience.
 
 ### 🏥 Healthcare Platform
 
-Enterprise health stack — appointments, portals, RBAC, automation, analytics.
+A healthcare software initiative focused on patient experiences, administration, and structured clinical workflows.
 
 ```
-◉ Patient portal
-◉ Admin + RBAC
-◉ Clinical workflows
-◉ Health analytics
+◉ Patient portals
+◉ Role-based access
+◉ Appointment workflows
+◉ Healthcare analytics
 ```
 
 `IN DEVELOPMENT`
@@ -178,7 +295,7 @@ Enterprise health stack — appointments, portals, RBAC, automation, analytics.
 
 ## ▸ selected work
 
-Products and brands shipped across industries — proof over pitch.
+Products and brands across commerce, property, lifestyle, and digital platforms — built through OGX Studio.
 
 <table>
 <tr>
@@ -204,7 +321,8 @@ Rasoiya
 Global Acres  
 Kiaan Properties  
 Livome  
-Maha Magic Vastu
+Maha Magic Vastu  
+Rent1st
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -216,7 +334,8 @@ Maha Magic Vastu
 PitchDeckHub  
 Dobbico  
 DG Orbit  
-Desh Ghumo
+Desh Ghumo  
+LastWave
 
 </td>
 </tr>
@@ -227,7 +346,7 @@ Desh Ghumo
 
 <br>
 
-Not slideware. These are live or production-ready products — storefronts, platforms, and tools used by real businesses. Design, engineering, and delivery owned end-to-end through OGX Studio.
+The work spans live client products, ongoing development, and product initiatives at different stages. The goal is to take ideas beyond slideware through practical design, engineering, integrations, and production-focused delivery.
 
 </details>
 
@@ -243,7 +362,7 @@ Not slideware. These are live or production-ready products — storefronts, plat
 
 AI agents · LLM apps  
 Automation · MCP  
-RAG · Multi-agent
+RAG · Multi-agent systems
 
 </td>
 <td width="33%" valign="top">
@@ -270,9 +389,9 @@ Commerce · Speed
 
 **🎨 Craft**
 
-UI/UX · Systems  
+UI/UX · Design systems  
 Brand · Figma  
-Motion · Detail
+Motion · Interaction
 
 </td>
 <td width="33%" valign="top">
@@ -281,16 +400,16 @@ Motion · Detail
 
 Vercel · Docker  
 Cloudflare · CI/CD  
-Infra that stays quiet
+Reliable infrastructure
 
 </td>
 <td width="33%" valign="top">
 
-**🔭 Next**
+**🎵 Emerging**
 
-Distributed systems  
-Edge · WASM  
-AI infrastructure
+Music technology  
+Audio playback · Media  
+AI infrastructure · Edge
 
 </td>
 </tr>
@@ -386,10 +505,9 @@ AI infrastructure
 
 <div align="center">
 
-
 ### Let's make something worth shipping
 
-**AI Products** · **Enterprise Software** · **SaaS** · **Premium Digital Experiences**
+**AI Products** · **Enterprise Software** · **SaaS** · **Music Technology** · **Premium Digital Experiences**
 
 <br>
 
@@ -402,3 +520,4 @@ AI infrastructure
 <sub><i>Crafted at the intersection of design, engineering, and business.</i></sub>  
 <sub>© 2026 OGX Studio · Built with intention</sub>
 </div>
+```
