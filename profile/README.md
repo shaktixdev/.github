@@ -1,39 +1,8 @@
-```markdown
-<!--
-  ┌─────────────────────────────────────────────────────────┐
-  │  SHAKTI MANDAL  ·  Founder & Director, OGX Studio       │
-  │  github.com/shaktixdev                                  │
-  └─────────────────────────────────────────────────────────┘
--->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shaktixdev/.github/main/profile/banner.jpeg" width="100%" alt="OGX Studio — AI Products, Modern Web & Business Software" />
-
-<br><br>
-
-<h1>👋 Hey, I'm Shakti</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=AI+that+works+in+production;SaaS+that+feels+premium;Software+that+ships+fast" alt="Typing" />
-
-<br>
-
-<a href="https://github.com/shaktixdev"><img src="https://img.shields.io/badge/GitHub-shaktixdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shaktimndal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ogxstudio.in"><img src="https://img.shields.io/badge/OGX_Studio-0175F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:shakti@ogxstudio.in"><img src="https://img.shields.io/badge/Email-shakti@ogxstudio.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<br>
-
----
-
 ## ▸ whoami
 
-I design and ship **premium digital products** — AI systems, SaaS platforms, music technology, and enterprise software — from first sketch to production.
+I design and ship **premium digital products** — AI systems, SaaS platforms, enterprise software, and business management tools — from first sketch to production.
 
-As Founder & Director at **[OGX Studio](https://ogxstudio.in)**, I work across product engineering, AI automation, modern web applications, and business software.
+At **[OGX Studio](https://ogxstudio.in)**, I work across product engineering, AI automation, modern web applications, and connected business systems.
 
 > Not templates. Not demos. Products engineered to solve real problems.
 
@@ -52,13 +21,13 @@ export const shakti = {
     "AI Products & Multi-Agent Systems",
     "Premium SaaS & Enterprise Platforms",
     "Full-Stack Engineering + Product Design",
-    "Music Technology & Audio Engineering",
+    "HRMS & Business Process Automation",
   ],
 
   now: {
-    building: "Netsuk AI — intelligent automation",
-    shipping: "LastWave — music streaming & playback",
-    developing: "Xien OS, Msgium, Zodyc & OGX Space",
+    building: "Xien OS — AI-powered experiences",
+    shipping: "Business software across commerce & proptech",
+    developing: "Msgium, Zodyc, Arya AI & OGX Space",
   },
 
   creed: "Performance · Design · Reliability · Scale",
@@ -81,12 +50,11 @@ export const shakti = {
 
 ## ▸ the studio map
 
-How everything connects — from OGX Studio to its product ecosystem, independent projects, and client solutions.
+How everything connects — from OGX Studio to its product ecosystem, business platforms, and client solutions.
 
 ```mermaid
 flowchart LR
-  S[OGX Studio] --> N[Netsuk AI]
-  S --> X[Xien OS]
+  S[OGX Studio] --> X[Xien OS]
   S --> M[Msgium]
   S --> Z[Zodyc]
   S --> A[Arya AI]
@@ -94,7 +62,7 @@ flowchart LR
 
   S --> R[Rent1st]
   S --> H[Healthcare Platform]
-  S --> L[LastWave]
+  S --> HR[HRMS Platform]
   S --> C[Client Work]
 
   C --> E[E-Commerce]
@@ -102,7 +70,6 @@ flowchart LR
   C --> T[Tools & Platforms]
 
   style S fill:#0175F2,stroke:#0175F2,color:#fff
-  style N fill:#8B5CF6,stroke:#8B5CF6,color:#fff
   style X fill:#6366F1,stroke:#6366F1,color:#fff
   style M fill:#10B981,stroke:#10B981,color:#fff
   style Z fill:#F59E0B,stroke:#F59E0B,color:#fff
@@ -110,7 +77,7 @@ flowchart LR
   style O fill:#0EA5E9,stroke:#0EA5E9,color:#fff
   style R fill:#14B8A6,stroke:#14B8A6,color:#fff
   style H fill:#EF4444,stroke:#EF4444,color:#fff
-  style L fill:#8B5CF6,stroke:#8B5CF6,color:#fff
+  style HR fill:#8B5CF6,stroke:#8B5CF6,color:#fff
 ```
 
 ---
@@ -126,7 +93,7 @@ flowchart LR
 
 The engineering studio building premium software, AI solutions, SaaS platforms, and digital products.
 
-```
+```text
 ◉ Product engineering
 ◉ AI solutions & automation
 ◉ SaaS architecture
@@ -138,67 +105,33 @@ The engineering studio building premium software, AI solutions, SaaS platforms, 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Netsuk AI
+### 🖥️ Xien OS
 
-An AI-first initiative focused on intelligent agents, automation, and business workflows.
+An AI-powered operating system experience designed to bring intelligent assistance into everyday workflows.
 
-```
-◉ AI agent orchestration
-◉ Workflow automation
-◉ LLM-powered intelligence
-◉ AI infrastructure
-```
-
-`BUILDING` · `AI-FIRST`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 LastWave
-
-A music streaming project focused on dependable playback, music discovery, audio quality, and a better listening experience.
-
-```
-◉ Music discovery
-◉ Audio playback
-◉ Lossless source handling
-◉ Playback diagnostics
+```text
+◉ AI-powered experiences
+◉ Intelligent assistance
+◉ Workflow integration
+◉ Connected applications
 ```
 
 `IN DEVELOPMENT`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏠 Rent1st
 
 A property management platform designed to simplify rental operations for owners, managers, and tenants.
 
-```
+```text
 ◉ Property management
 ◉ Tenant discovery
 ◉ Verification workflows
 ◉ Rental operations
-```
-
-`IN DEVELOPMENT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Xien OS
-
-An AI-powered operating system experience designed to bring intelligent assistance into everyday workflows.
-
-```
-◉ AI-powered experiences
-◉ Intelligent assistance
-◉ Workflow integration
-◉ Connected applications
 ```
 
 `IN DEVELOPMENT`
@@ -210,7 +143,7 @@ An AI-powered operating system experience designed to bring intelligent assistan
 
 A business messaging and automation platform built around WhatsApp APIs and AI-assisted communication.
 
-```
+```text
 ◉ WhatsApp API integration
 ◉ AI assistants
 ◉ Automated workflows
@@ -228,7 +161,7 @@ A business messaging and automation platform built around WhatsApp APIs and AI-a
 
 An open-source website and commerce builder focused on making digital product creation more accessible.
 
-```
+```text
 ◉ Website creation
 ◉ Commerce experiences
 ◉ Flexible customization
@@ -242,9 +175,9 @@ An open-source website and commerce builder focused on making digital product cr
 
 ### 🧠 Arya AI
 
-An intelligent assistant layer envisioned to connect AI capabilities with everyday product and business workflows.
+An intelligent assistant layer designed to connect AI capabilities with everyday product and business workflows.
 
-```
+```text
 ◉ AI assistance
 ◉ Context-aware workflows
 ◉ Product integrations
@@ -262,7 +195,7 @@ An intelligent assistant layer envisioned to connect AI capabilities with everyd
 
 A business operations platform bringing essential business workflows into one connected workspace.
 
-```
+```text
 ◉ CRM & lead management
 ◉ Appointments
 ◉ HRMS & operations
@@ -274,11 +207,29 @@ A business operations platform bringing essential business workflows into one co
 </td>
 <td width="50%" valign="top">
 
+### 👥 HRMS Platform
+
+A human resource management system designed to streamline employee administration and organizational operations.
+
+```text
+◉ Employee management
+◉ Attendance & leave
+◉ Payroll workflows
+◉ HR analytics & reporting
+```
+
+`IN DEVELOPMENT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏥 Healthcare Platform
 
 A healthcare software initiative focused on patient experiences, administration, and structured clinical workflows.
 
-```
+```text
 ◉ Patient portals
 ◉ Role-based access
 ◉ Appointment workflows
@@ -286,6 +237,22 @@ A healthcare software initiative focused on patient experiences, administration,
 ```
 
 `IN DEVELOPMENT`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Business Automation
+
+Connected software solutions that reduce repetitive work and simplify business processes.
+
+```text
+◉ Workflow automation
+◉ API integrations
+◉ Business dashboards
+◉ Process optimization
+```
+
+`ONGOING`
 
 </td>
 </tr>
@@ -335,20 +302,11 @@ PitchDeckHub
 Dobbico  
 DG Orbit  
 Desh Ghumo  
-LastWave
+OGX Space
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>◎ what “shipped” means here</b></summary>
-
-<br>
-
-The work spans live client products, ongoing development, and product initiatives at different stages. The goal is to take ideas beyond slideware through practical design, engineering, integrations, and production-focused delivery.
-
-</details>
 
 ---
 
@@ -370,8 +328,8 @@ RAG · Multi-agent systems
 **💼 Systems**
 
 SaaS · CRM · ERP  
-Dashboards · APIs  
-Payments · Workflows
+HRMS · Dashboards  
+APIs · Payments · Workflows
 
 </td>
 <td width="33%" valign="top">
@@ -405,97 +363,11 @@ Reliable infrastructure
 </td>
 <td width="33%" valign="top">
 
-**🎵 Emerging**
+**🔭 Next**
 
-Music technology  
-Audio playback · Media  
+Distributed systems  
+Enterprise automation  
 AI infrastructure · Edge
-
-</td>
-</tr>
-</table>
-
----
-
-## ▸ stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nextjs,react,express,vite,mongodb,postgres,redis,prisma,tailwind,figma,docker,vercel,cloudflare,git,github,supabase&perline=10&theme=dark" alt="Tech stack" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D4A84B?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-0175F2?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-
-</div>
-
----
-
-## ▸ signal
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaktixdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=0175F2&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaktixdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=shaktixdev&theme=tokyonight&hide_border=true&background=00000000&ring=0175F2&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaktixdev&theme=tokyo-night&hide_border=true&bg_color=00000000&color=58A6FF&line=0175F2&point=FF6B35&area=true&area_color=0175F240" alt="Contribution graph" />
-
-</div>
-
----
-
-## ▸ operating principles
-
-<div align="center">
-
-> **Simple for users. Powerful for businesses. Exceptional for developers.**
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**⚡ Speed**  
-<sub>Latency is UX</sub>
-
-</td>
-<td align="center" width="20%">
-
-**🎨 Taste**  
-<sub>Details compound</sub>
-
-</td>
-<td align="center" width="20%">
-
-**🔒 Trust**  
-<sub>Quiet reliability</sub>
-
-</td>
-<td align="center" width="20%">
-
-**📈 Scale**  
-<sub>Grow without rewrite</sub>
-
-</td>
-<td align="center" width="20%">
-
-**✨ Feel**  
-<sub>Delight on purpose</sub>
 
 </td>
 </tr>
@@ -507,7 +379,7 @@ AI infrastructure · Edge
 
 ### Let's make something worth shipping
 
-**AI Products** · **Enterprise Software** · **SaaS** · **Music Technology** · **Premium Digital Experiences**
+**AI Products** · **Enterprise Software** · **SaaS** · **HRMS** · **Business Automation** · **Premium Digital Experiences**
 
 <br>
 
@@ -520,4 +392,3 @@ AI infrastructure · Edge
 <sub><i>Crafted at the intersection of design, engineering, and business.</i></sub>  
 <sub>© 2026 OGX Studio · Built with intention</sub>
 </div>
-```
