@@ -1,4 +1,4 @@
-```html
+ 
 <!--
   ┌─────────────────────────────────────────────────────────┐
   │  SHAKTI MANDAL  ·  Founder & Director, OGX Studio       │
@@ -74,7 +74,7 @@ export const shakti = {
 
 | 🏗️ Flagship | 🌍 Clients | 🧠 AI | 🎨 Design | ⚡ Delivery |
 |:---:|:---:|:---:|:---:|:---:|
-| **8+** products & initiatives | **15+** businesses | First-class | Pixel-led | End-to-end |
+| **8+** products | **15+** businesses | First-class | Pixel-led | End-to-end |
 
 </div>
 
@@ -82,7 +82,7 @@ export const shakti = {
 
 ## ▸ the studio map
 
-How everything connects — from OGX Studio to its product ecosystem, live platforms, and business solutions.
+How everything connects — from OGX Studio to its products, live platforms, and client solutions.
 
 ```mermaid
 flowchart LR
@@ -138,7 +138,7 @@ The company behind the craft — premium software, AI solutions, SaaS platforms,
 
 ### 🏠 Rent1st
 
-A modern rental and property management platform built to simplify property operations and tenant experiences.
+A modern rental platform built to simplify property operations, management, and tenant experiences.
 
 ```
 ◉ Property management
@@ -156,7 +156,7 @@ A modern rental and property management platform built to simplify property oper
 
 ### 🌐 Zodyc
 
-An open-source website and commerce builder designed to make digital product creation more accessible.
+An open-source website and commerce builder focused on making digital product creation more accessible.
 
 ```
 ◉ Open-source platform
@@ -224,7 +224,7 @@ A business messaging and automation platform built around WhatsApp APIs and AI-a
 
 ### 🧠 Arya AI
 
-An intelligent assistant layer designed to connect AI capabilities with everyday product and business workflows.
+An intelligent assistant layer designed to connect AI capabilities with product and business workflows.
 
 ```
 ◉ AI assistance
@@ -344,7 +344,7 @@ Zodyc
 
 <br>
 
-The portfolio spans live platforms, client products, and ongoing product development. The focus is on taking ideas beyond slideware through practical design, engineering, integrations, and production-focused delivery.
+These projects span live platforms, client products, and initiatives at different stages of development. The focus is on taking ideas beyond slideware through practical design, engineering, integrations, and production-focused delivery.
 
 </details>
 
@@ -518,4 +518,3 @@ AI infrastructure · Edge
 <sub><i>Crafted at the intersection of design, engineering, and business.</i></sub>  
 <sub>© 2026 OGX Studio · Built with intention</sub>
 </div>
-```
